@@ -6,6 +6,9 @@ In this project ,i used python libraries to analyse data and explore it ,write a
 What do I need to install? You will need an installation of Python, plus the following libraries:
 
 -pandas
+
 -NumPy
+
 -Matplotlib
+
 -csv
